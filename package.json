@@ -1,0 +1,8 @@
+{
+  "name": "pi-verify-gate",
+  "version": "0.1.0",
+  "description": "宣称修好但没验证的收尾门：命中后问用户收工还是先验证，提示只给用户看",
+  "keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "verification", "agent-reliability"],
+  "license": "MIT",
+  "pi": { "extensions": ["./extensions/verify-gate.ts"] }
+}
